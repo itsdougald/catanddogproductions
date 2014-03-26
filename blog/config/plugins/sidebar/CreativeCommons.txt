@@ -1,0 +1,1 @@
+plugin|CreativeCommons|enabled|1|license|by-nc-nd|licensever|3.0

@@ -1,0 +1,1 @@
+plugin|Badges|enabled|1|sphpblog|on|php|on|text|on|rss|on|atom|on|rdf|on

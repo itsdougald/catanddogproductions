@@ -1,0 +1,1 @@
+plugin|Bookmarks|enabled|1|provider|addthis

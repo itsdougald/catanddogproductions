@@ -1,0 +1,15 @@
+BUGS
+- plus/minus button on menus not working. are these pointless 
+since the next page will just show them again?  should we use session cookies to 
+remember it?
+- remove print links
+
+- fix urls in plugins
+- move install pages to separate directory
+- integrate gallery
+- convert templates to CSS only?  converge HTML first, see theme.php
+
+New config settings:
+- Show comments by default ID: 2981075 
+- Require login for rating ID: 1785378
+- capcha for rating ID: 1593563
