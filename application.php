@@ -36,8 +36,8 @@
    		$GLOBALS['EXETEL_HOME_2013'] = "/album/2013";
 		$GLOBALS['EXETEL_HOME_2014'] = "/album/2014";
    		$GLOBALS['EXETEL_HOME_WEDDING'] = "/album/wedding";
-   		$GLOBALS['EXETEL_HOME_WORLDTRIP'] = "http://www.catanddogproductions.com/album/world.trip";
-		$GLOBALS['EXETEL_HOME_SOPHIA'] = "http://www.catanddogproductions.com/album/bubba";  
+   		$GLOBALS['EXETEL_HOME_WORLDTRIP'] = "/album/world.trip";
+		$GLOBALS['EXETEL_HOME_SOPHIA'] = "/album/bubba";  
                 break;
 	}
     
