@@ -1,14 +1,12 @@
 <?php
 /*
- * @author The Dog
- * @date 10 Jan 2007
- *  			
+ * Created on Sep 2007 by Neil Guppy aka Dougal ask The Dog
  *
- * I am the page describing our first trip back to the UK since leaving in Feb 05
+ * I am the homepage to the cat and dog dot dom productions
  */
 ?>
 <?php 
- 	include '../application.php'; 
+ 	include '../../application.php'; 
 	include $ROOT.'/includes/header.php'; 
 ?>	
 <body id="catanddog" class="homepage">
@@ -16,6 +14,7 @@
 	include $ROOT.'/includes/tab.php'; 
  	include $ROOT.'/includes/side.php'; ?>
 
+	<div id="mainContent">
 	<h2>Happy Holidays!</h2>
 	<p>
 	Well over three month have passed and it already seems like a lifetime ago we were back on the stony, cobbely shore of the UK in November/December 2006!

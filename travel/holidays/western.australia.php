@@ -1,14 +1,12 @@
 <?php
 /*
- * @author The Dog
- * @date 6 Sep 2006
- *  			
+ * Created on Dec 2011 by Neil Guppy aka Dougal ask The Dog
  *
- * I am the page describing our beach volleyball lessons
+ * I am the homepage to the cat and dog dot dom productions
  */
 ?>
 <?php 
- 	include '../application.php'; 
+ 	include '../../application.php'; 
 	include $ROOT.'/includes/header.php'; 
 ?>	
 <body id="catanddog" class="homepage">
