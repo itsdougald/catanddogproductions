@@ -1,3 +1,21 @@
+<?php
+/*
+ * Created on Aug 2014 by Neil Guppy aka Dougal ask The Dog
+ *
+ * I am the homepage to the cat and dog dot dom productions
+ */
+?>
+<?php 
+ 	include '../../application.php'; 
+	include $ROOT.'/includes/header.php'; 
+?>	
+<body id="catanddog" class="homepage">
+<?php
+	include $ROOT.'/includes/tab.php'; 
+ 	include $ROOT.'/includes/side.php'; ?>
+
+	<div id="mainContent">
+	
 <h3>Manor House madness!</h3>
 <p>
 Lawn activities:
