@@ -62,8 +62,8 @@
 	<iframe width="560" height="315" src="//www.youtube.com/embed/BoxUVbxvNFU" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
-	Tuesday 5th, Anna, Johnny and Dog headed down to Pagham for some Caravan carniage! WIth an afternoon BBQ on the go, we basked in the sun
-	and enjoyed the kids entertainment. Hitting the Games arcade and soaked in the camp's night entertainment!
+	Tuesday 5th, Anna, Johnny and Dog headed down to <a href="http://www.haven.com/parks/sussex/church-farm/">Pagham for some Caravan carniage</a>! With an afternoon BBQ on the go, we basked in the sun
+	,enjoyed the kids entertainment by day and the Caravan site's by night. Think the kids picked up a gambling habit on those 2p machines! 
 	</p>
 	<p>
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/4.Pagham/index.html">Pagham</a> [ Aug 4th - 6th 2014]      
@@ -84,8 +84,8 @@
 	<iframe width="560" height="315" src="//www.youtube.com/embed/G8rBbH5HxEM" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
-	Wednesday 6th we left camp and headed back to Fareham for our last few days. Thursday 7th we hit Peppa Pig World in Poulton! Oink Oink!!
-	Ending the night with Chinese takeaway, Abbot Ale, Cloudy Rum and whisky - heaven!!</p>
+	Wednesday 6th we left camp and headed back to Fareham for our last few days. Thursday 7th we hit <a href="https://paultonspark.co.uk/">Peppa Pig World</a> in Poulton! Oink Oink!!
+	Ending the night with a Chinese takeaway, Abbot Ale, Cloudy Rum and whisky - heaven!!</p>
 	<p>
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/5.Fareham/index.html">Fareham</a> [ Aug 4th - 6th 2014]      
 	</p>
