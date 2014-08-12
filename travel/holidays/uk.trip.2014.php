@@ -43,8 +43,9 @@
 	<p>
 	Sunday 3rd, John and Anna opened their house up to host a BBQ - friends came and went for the day as we drunk and ate under the scorching
 	sun! The girls hit the Prince Of Wales in Hampton Court at night, whilst Johnny cleaned up his house (I entertained the kids).
-	Monday 4th, Dog played golf with Ginge at <a href="http://www.burhillgolf-club.co.uk/">Burhill Golf club</a>; Jez, who had the runs, joined us for a drink at 
-	the clubhouse. Later that night dog hit Kingston town for a few bevvies with Johnny! In the afternoon, Cat headed south to Pagham with Kirstin and the kids and 
+	Monday 4th, Dog played golf with Ginge at <a href="http://www.burhillgolf-club.co.uk/">Burhill Golf club</a> (Small fact: this is where Barnes Wallis 
+	invented the Dambuster bouncing bomb); Jez, who had the runs (another small fact), joined us for a drink at the clubhouse. Later that night 
+	Dog and Johnny hit Kingston town for a few bevvies, although we struggeld to get into a nightclub becuase we dind't have ID, not because we look too old (another small fact)! In the afternoon, Cat headed south to Pagham with Kirstin and the kids and 
 	joined XCYS and Barometer at the Pagham Caravan site!
 	</p>
 	<p>
