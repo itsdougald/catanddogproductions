@@ -19,7 +19,7 @@
 	Here's a list of holidays and w/e breaks we've had since leaving the rugged shores of the UK...
 	<ul>
 		<li><a href="uk.trip.2014.php">UK trip</a> [Jul 2014]</li>
-		<li><a href="<?php echo $EXETEL_HOME_2013 ?>/03Mar/Newport.Holiday/index.html">Newport</a> [Mar 2013]</li>
+		<li><a href="<?php echo $EXETEL_HOME_2014 ?>/03Mar/Newport.Holiday/index.html">Newport</a> [Mar 2014]</li>
 		<li><a href="<?php echo $EXETEL_HOME_2013 ?>/10Oct/Holiday/index.html">Bali/Perth</a> [Oct 2013]</li>
 		<li><a href="<?php echo $EXETEL_HOME_2012 ?>/09Sep/Ettalong/index.html">Trip up to Ettalong</a> [Sep 2012]</li>
 		<li><a href="<?php echo $EXETEL_HOME_2011 ?>/12Dec/Kangaroo.Valley/index.html">Kangaroo Valley</a> [Dec 2011]</li>
