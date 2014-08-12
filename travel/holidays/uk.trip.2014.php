@@ -33,7 +33,7 @@
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a>     
 	</p>
 	<p>
-	<strong><a href="manor.house.videos.php">Videos (Health warning: there are lots!)</a></strong>      
+	<strong>Videos</strong> <a href="manor.house.videos.php"> Manor House (Health warning: there are lots!)</a>      
 	</p>
 	<p>
 	Driving into London, Hampton Court, dropped of V and the kids with John/Anna/Bella and Myles whilst The Dog headed back to Billericay to drop the car
