@@ -58,15 +58,8 @@
 	<li>Queens Park Lions 1 (0) v (0) 0 Maroubra United [ 2014 Aug 3 ]</li>
 	<li>Queens Park Lions 0 (0) v (0) 2 Dunbar Rovers [ 2014 Jul 27 ]</li>
 	<li>Maroubra United (0) v (4) 9 Queens Park Lions [ 2014 Jul  ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-		</ul>
+	<li>Waverley Old Boys (0) v (2) 1 Queens Park Lions [ 2014 Jul ]</li>
+	</ul>
 		
 		<h3>Kids</h3>
 	<ul>
