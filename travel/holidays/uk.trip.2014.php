@@ -36,14 +36,22 @@
 	<p>
 	Sunday 3rd, John and Anna opened their house up to host a BBQ - friends came and went for the day as we drunk and ate under the scorching
 	sun! Cat and a few girls hit the Prince Of Wale sin Hampton Court!!
+	Monday 4th, Dog played golf with Ginge at <a href="http://www.burhillgolf-club.co.uk/">Burhill Golf club</a>; Jez, who had the runs, joined us for a drink at 
+	the clubhouse. Later that night dog hit Kingston town for a few bevvies with Johnny! In the afternoon, Cat headed south to Pagham with Kirstin and the kids and 
+	joined XCYS and Barometer at the Pagham Caravan site!
 	</p>
 	<p>
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/3.Hampton Court/index.html">Hampton Court</a> [ Aug 2nd - 4th 2014]      
 	</p>
 	<p>
-	Monday 4th, Dog played golf with Ginge at <a href="http://www.burhillgolf-club.co.uk/">Burhill Golf club</a>; Jez, who had the runs, joined us for a drink at 
-	the clubhouse. Later that night dog hit Kingston town for a few bevvies with Johnny! In the afternoon, Cat headed south to Pagham with Kirstin and the kids and 
-	joined XCYS and Barometer at the Pagham Caravan site!
+	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/T2tJd98XbE8" frameborder="0" allowfullscreen></iframe>
+	</p>
+	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/gGM9eQVubOI" frameborder="0" allowfullscreen></iframe>
+	</p>
+	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/BoxUVbxvNFU" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
 	Tuesday 5th, Anna, Johnny and Dog headed down to Pagham for some Caravan carniage! WIth an afternoon BBQ on the go, we basked in the sun
