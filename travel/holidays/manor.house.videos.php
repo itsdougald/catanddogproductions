@@ -26,8 +26,6 @@ Lawn activities:
 <p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/pCJ7NAVSXgo" frameborder="0" allowfullscreen></iframe>
 </p>
-Activities
-<iframe width="560" height="315" src="//www.youtube.com/embed/HJHFuQ1YOJs" frameborder="0" allowfullscreen></iframe>
 <p>
 Fun house:
 </p>
@@ -53,6 +51,12 @@ Tennis
 </p>
 <p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/KuQpgWYZDlk" frameborder="0" allowfullscreen></iframe>
+</p>
+<p>
+Other activities:
+</p>
+<p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/HJHFuQ1YOJs" frameborder="0" allowfullscreen></iframe>
 </p>
 <hr class="hide">
       </div>
