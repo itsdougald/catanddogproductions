@@ -30,6 +30,9 @@
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a> [Jul 27th - Aug 1st 2014]      
 	</p>
 	<p>
+	<a href="<?php echo $EXETEL_HOME_2014 ?>/manor.house.videos">Videos</a>      
+	</p>
+	<p>
 	Driving into London, Hampton Court, dropped of V and the kids with John/Anna and headed back to Billericay to drop the car
 	off and spend a night/day with Pops and Duck
 	</p>	
