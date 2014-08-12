@@ -26,22 +26,23 @@
 	<iframe width="560" height="315" src="//www.youtube.com/embed/Nn2FDyr5rMI" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
-	On Sunday 27th, we drove down to Okehampton in Devon and stayed in the Manor House for 5 nights with Pops, Duck, brothers and
-	their family!
+	On Sunday 27th, we drove down to Okehampton in Devon and stayed in the <a href="http://www.manorhousehotel.co.uk/">Manor House</a> for 5 nights with Pops, Duck, 
+	Dave, Claire, Henry, Jack, Charlie, Jon, Sinead, Niall, Caoihme, Ronan and Dara brother - there were 17 of us!
 	</p>
 	<p>
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a> [Jul 27th - Aug 1st 2014]      
 	</p>
 	<p>
-	<a href="manor.house.videos.php">Videos</a>      
+	<a href="manor.house.videos.php">Videos (Health warning: there are lots!)</a>      
 	</p>
 	<p>
-	Driving into London, Hampton Court, dropped of V and the kids with John/Anna and headed back to Billericay to drop the car
-	off and spend a night/day with Pops and Duck
+	Driving into London, Hampton Court, dropped of V and the kids with John/Anna/Bella and Myles whilst The Dog headed back to Billericay to drop the car
+	off, eat a Kamble Chinese takeaway and spend a night/day with Pops and Duck! Did I tell you all it took 7 hours to drive from Devon to Hampton Court?
+	On the plus side side we got to see Stone Henge from the A303!
 	</p>	
 	<p>
 	Sunday 3rd, John and Anna opened their house up to host a BBQ - friends came and went for the day as we drunk and ate under the scorching
-	sun! Cat and a few girls hit the Prince Of Wale sin Hampton Court!!
+	sun! The girls hit the Prince Of Wales in Hampton Court at night, whilst Johnny cleaned up his house (I entertained the kids).
 	Monday 4th, Dog played golf with Ginge at <a href="http://www.burhillgolf-club.co.uk/">Burhill Golf club</a>; Jez, who had the runs, joined us for a drink at 
 	the clubhouse. Later that night dog hit Kingston town for a few bevvies with Johnny! In the afternoon, Cat headed south to Pagham with Kirstin and the kids and 
 	joined XCYS and Barometer at the Pagham Caravan site!
