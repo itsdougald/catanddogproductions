@@ -64,6 +64,9 @@
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/4.Pagham/index.html">Pagham</a> [ Aug 4th - 6th 2014]      
 	</p>
 	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/dDZ1a8DsIDE" frameborder="0" allowfullscreen></iframe>
+	</p>
+	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/6ZcAmomMZmw" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
@@ -71,6 +74,9 @@
 	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/jyeGCI_r16Q" frameborder="0" allowfullscreen></iframe>
+	</p>
+	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/G8rBbH5HxEM" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
 	Wednesday 6th we left camp and headed back to Fareham for our last few days. Thursday 7th we hit Peppa Pig World in Poulton! Oink Oink!!
