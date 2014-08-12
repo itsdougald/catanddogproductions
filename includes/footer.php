@@ -34,7 +34,7 @@
 
     <p class="copyright">Copyright &copy; 2012 The Cat And Dog Productions</p>
     <p>
-      <span>Last modified Oct 21, 2013</span>
+      <span>Last modified Aug, 2014</span>
       <!-- <span><a href="http://bonsai-www.mozilla.org/cvslog.cgi?file=mozilla-org/html/projects/bugzilla/index.html.tmpl&amp;rev=&amp;root=/cvsroot/">Document History</a></span>
       <span><a href="http://doctor.mozilla.org/?file=mozilla-org/html/projects/bugzilla/index.html.tmpl">Edit this Page</a></span> <span>(or <a href="http://www.mozilla.org/README-cvs.html">via CVS</a>)</span> -->
     </p>
