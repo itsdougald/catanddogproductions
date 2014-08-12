@@ -20,7 +20,7 @@
 	Saturday 26th @ 6am! With a big greeting and a coffee we head off to Billericay for a night. 
 	</p>
 	<p>
-	<strong>Pictures:</strong><a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/1.Essex/index.html">First stop Essex</a> 
+	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/1.Essex/index.html">First stop Essex</a> 
 	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/Nn2FDyr5rMI" frameborder="0" allowfullscreen></iframe>
@@ -30,7 +30,7 @@
 	Dave, Claire, Henry, Jack, Charlie, Jon, Sinead, Niall, Caoihme, Ronan and Dara brother - there were 17 of us!
 	</p>
 	<p>
-	<strong>Pictures:</strong><a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a>     
+	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a>     
 	</p>
 	<p>
 	<strong><a href="manor.house.videos.php">Videos (Health warning: there are lots!)</a></strong>      
@@ -49,7 +49,7 @@
 	joined XCYS and Barometer at the Pagham Caravan site!
 	</p>
 	<p>
-	<strong>Pictures:</strong><a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/3.Hampton Court/index.html">Hampton Court</a>    
+	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/3.Hampton Court/index.html">Hampton Court</a>    
 	</p>
 	<p>
 	<p>
@@ -66,7 +66,7 @@
 	,enjoyed the kids entertainment by day and the Caravan site's by night. Think the kids picked up a gambling habit on those 2p machines! 
 	</p>
 	<p>
-	<strong>Pictures:</strong><a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/4.Pagham/index.html">Pagham</a>       
+	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/4.Pagham/index.html">Pagham</a>       
 	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/dDZ1a8DsIDE" frameborder="0" allowfullscreen></iframe>
@@ -87,7 +87,7 @@
 	Wednesday 6th we left camp and headed back to Fareham for our last few days. Thursday 7th we hit <a href="https://paultonspark.co.uk/">Peppa Pig World</a> in Poulton! Oink Oink!!
 	Ending the night with a Chinese takeaway, Abbot Ale, Cloudy Rum and whisky - heaven!!</p>
 	<p>
-	<strong>Pictures:</strong><a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/5.Fareham/index.html">Fareham</a>      
+	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/5.Fareham/index.html">Fareham</a>      
 	</p>
 	<p>
 	Friday 8th, Dog popped into Gun Wharf with XCYS and topped up his dicounted Paul Smith collection, before heading off to the airport and heading back to Aus!
