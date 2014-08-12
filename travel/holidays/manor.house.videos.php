@@ -54,3 +54,13 @@ Tennis
 <p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/KuQpgWYZDlk" frameborder="0" allowfullscreen></iframe>
 </p>
+<hr class="hide">
+      </div>
+      <!-- closes #mainContent-->
+    </div>
+    <!-- closes #mBody-->
+  </div>
+  <!-- closes #container -->
+   
+  <!-- footer counter -->
+  <?php include $ROOT.'/includes/footer.php'; ?>
