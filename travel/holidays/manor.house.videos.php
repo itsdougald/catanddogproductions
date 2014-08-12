@@ -56,6 +56,12 @@ Tennis
 <iframe width="560" height="315" src="//www.youtube.com/embed/zDyUXgu0860" frameborder="0" allowfullscreen></iframe>
 </p>
 <p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/FFO1CY86Es4" frameborder="0" allowfullscreen></iframe>
+</p>
+<p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/FTRhDRmuKog" frameborder="0" allowfullscreen></iframe>
+</p>
+<p>
 Other activities:
 </p>
 <p>
