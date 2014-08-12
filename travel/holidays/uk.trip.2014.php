@@ -23,6 +23,9 @@
 	<a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/1.Essex/index.html">First stop Essex</a> [Jul 26th 2014]
 	</p>
 	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/Nn2FDyr5rMI" frameborder="0" allowfullscreen></iframe>
+	</p>
+	<p>
 	On Sunday 27th, we drove down to Okehampton in Devon and stayed in the Manor House for 5 nights with Pops, Duck, brothers and
 	their family!
 	</p>
