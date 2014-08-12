@@ -36,7 +36,7 @@
 	<h2>News</h2>
 	<h3>General</h3>
 	<ul>
-	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/UK.trip/index.html">UK Trip</a> [ 2014 Jul - Aug ]</li>
+	<li><a href="/travel/holidays/uk.trip.2014.php">UK Trip</a> [ 2014 Jul - Aug ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/vivid/index.html">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/TT birthday/index.html">Tom Tom's Birthday</a> [ 2014 Jun ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Nannys/index.html">Nanny galore</a> [ 2014 Apr ]</li>
@@ -54,10 +54,10 @@
 	<h3>Sport</h3>
 	<ul>
 	TOD:UPDATE FOOTBALL RESULTS HERE]
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
-	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
+	<li>Queens Park Lions 1 (1) v (0) 1 Coogee United [ 2014 Aug 10 ]</li>
+	<li>Queens Park Lions 1 (0) v (0) 0 Maroubra United [ 2014 Aug 3 ]</li>
+	<li>Queens Park Lions 0 (0) v (0) 2 Dunbar Rovers [ 2014 Jul 27 ]</li>
+	<li>Maroubra United (0) v (4) 9 Queens Park Lions [ 2014 Jul  ]</li>
 	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
 	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
 	<li>Queens Park Rangers 1 (0) v (4) 9 Queens Park Lions [ 2013 Apr 7 ]</li>
