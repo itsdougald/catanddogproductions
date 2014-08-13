@@ -37,14 +37,14 @@
 	<h3>General</h3>
 	<ul>
 	<li><a href="/travel/holidays/uk.trip.2014.php">UK Trip</a> [ 2014 Jul - Aug ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/vivid/index.html">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
-    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/TT birthday/index.html">Tom Tom's Birthday</a> [ 2014 Jun ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/Vivid/index.html">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/TT Birthday/index.html">Tom Tom's Birthday</a> [ 2014 Jun ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Nannys/index.html">Nanny galore</a> [ 2014 Apr ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Easter.egg.hunt/index.html">Easter Egg Hunt</a> [ 2014 Apr ]</li>
-    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Beer.brewing/index.html">How to brew beer</a> [ 2014 Apr ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Beer brewing/index.html">How to brew beer</a> [ 2014 Apr ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/03Mar/2014_03_Guppy Family/index.html">Coogee: Family photo shoot</a> [ 2014 Mar ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/03Mar/Newport.Holiday/index.html">Holiday in Newport</a> [ 2014 Mar ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/Marks.40/index.html">Holiday in Newport</a> [ 2014 Mar ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/marks.40/index.html">Marks 40th</a> [ 2014 Mar ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/Sian.rob.engagement/index.html">Sian and Ron's engagement</a> [ 2014 Mar ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/duck.70/index.html">Ducks 70th</a> [ 2014 Jan ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Aus.day/index.html">Australia Day</a> [ 2014 Jan ]</li>
