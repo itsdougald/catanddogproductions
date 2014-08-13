@@ -71,6 +71,9 @@ Beach day:
 <iframe width="560" height="315" src="//www.youtube.com/embed/XMyaQoABmUY" frameborder="0" allowfullscreen></iframe>
 </p>
 <p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ERO5O176xfY" frameborder="0" allowfullscreen></iframe>
+</p>
+<p>
 <iframe width="560" height="315" src="//www.youtube.com/embed/lIDyCEs7p2k" frameborder="0" allowfullscreen></iframe>
 </p>
 <p>
