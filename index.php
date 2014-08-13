@@ -48,7 +48,7 @@
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/Sian.rob.engagement/index.html">Sian and Ron's engagement</a> [ 2014 Mar ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/duck.70/index.html">Ducks 70th</a> [ 2014 Jan ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Aus.day/index.html">Australia Day</a> [ 2014 Jan ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Orb.concert/index.html">Orb Concert with Mark</a> [ 2014 Jan ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Orb concert/index.html">Orb Concert with Mark</a> [ 2014 Jan ]</li>
 	</ul>
 	
 	<h3>Sport</h3>
