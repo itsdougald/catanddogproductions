@@ -33,7 +33,7 @@
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a>     
 	</p>
 	<p>
-	<strong>Videos</strong> <a href="manor.house.videos.php"> Manor House (Health warning: there are lots!)</a>      
+	<strong>Videos:</strong> <a href="manor.house.videos.php"> Manor House (Health warning: there are lots!)</a>      
 	</p>
 	<p>
 	Driving into London, Hampton Court, dropped of V and the kids with John/Anna/Bella and Myles whilst The Dog headed back to Billericay to drop the car
@@ -52,6 +52,8 @@
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/3.Hampton Court/index.html">Hampton Court</a>    
 	</p>
 	<p>
+	<strong>Videos:</strong>
+	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/T2tJd98XbE8" frameborder="0" allowfullscreen></iframe>
 	</p>
@@ -69,10 +71,13 @@
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/4.Pagham/index.html">Pagham</a>       
 	</p>
 	<p>
-	<iframe width="560" height="315" src="//www.youtube.com/embed/dDZ1a8DsIDE" frameborder="0" allowfullscreen></iframe>
+	<strong>Videos:</strong>
 	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/6ZcAmomMZmw" frameborder="0" allowfullscreen></iframe>
+	</p>
+	<p>
+	<iframe width="560" height="315" src="//www.youtube.com/embed/dDZ1a8DsIDE" frameborder="0" allowfullscreen></iframe>
 	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/HYP_8oaOWX0" frameborder="0" allowfullscreen></iframe>
