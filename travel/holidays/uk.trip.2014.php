@@ -95,7 +95,8 @@
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/5.Fareham/index.html">Fareham</a>      
 	</p>
 	<p>
-	Friday 8th, Dog popped into Gun Wharf with XCYS and topped up his dicounted Paul Smith collection, before heading off to the airport and heading back to Aus!
+	Friday 8th, Dog popped into Gun Wharf with XCYS and topped up his dicounted Paul Smith collection, before heading off to the airport 
+	and heading back to Aus with Cat, Sophia and Andre! 
 	<hr class="hide">
       </div>
       <!-- closes #mainContent-->
