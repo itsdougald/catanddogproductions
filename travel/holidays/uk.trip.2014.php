@@ -27,7 +27,9 @@
 	</p>
 	<p>
 	On Sunday 27th, we drove down to Okehampton in Devon and stayed in the <a href="http://www.manorhousehotel.co.uk/">Manor House</a> for 5 nights with Pops, Duck, 
-	Dave, Claire, Henry, Jack, Charlie, Jon, Sinead, Niall, Caoihme, Ronan and Dara brother - there were 17 of us!
+	Dave, Claire, Henry, Jack, Charlie, Jon, Sinead, Niall, Caoihme, Ronan and Dara brother - there were 17 of us! Mesing around the lawn by day and night, played
+	crazy golf, spent plenty of time in the mad house, playing tennis, visted <a href="http://www.visitbude.info/">Bude</a> and <a href="http://www.clovelly.co.uk/">Clovelly</a> 
+	(In 1913, beach town in Australia was named <a href="http://en.wikipedia.org/wiki/Clovelly,_New_South_Wales">Clovelly</a>), golf Kigbeare with Bugsy and Jim Jam!.
 	</p>
 	<p>
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/Uk.trip/2.Manor House/index.html">Manor House</a>     
