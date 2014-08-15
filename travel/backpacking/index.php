@@ -25,12 +25,12 @@
 	Listed below are the countries we visited en-route to Australia <strong>&raquo;</strong>
 	</p>
 	<ul>
-            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/dubai.php" title="First stop: Dubai">Dubai</a></li>
-            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/dubai.php#oman" title="Interlude stop stop: Oman">Oman</a></li>
-            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/thailand.php" title="Second stop: Thailand">Thailand</a></li>
-            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/malaysia.php" title="Third stop: Malaysia">Malaysia</a></li>
-            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/malaysia.php#singapore" title="Fourth stop: Singapore">Singapore</a></li>
-            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/australia.php" title="Last stop: Australia">Australia</a></li>
+            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/backpacking/dubai.php" title="First stop: Dubai">Dubai</a></li>
+            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/backpacking/dubai.php#oman" title="Interlude stop stop: Oman">Oman</a></li>
+            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/backpacking/thailand.php" title="Second stop: Thailand">Thailand</a></li>
+            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/backpacking/malaysia.php" title="Third stop: Malaysia">Malaysia</a></li>
+            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/backpacking/malaysia.php#singapore" title="Fourth stop: Singapore">Singapore</a></li>
+            <li><a href="<?php echo $APPS_PATH_DEFAULT;?>/travel/backpacking/australia.php" title="Last stop: Australia">Australia</a></li>
 	</ul>
 	
 	<hr class="hide">
