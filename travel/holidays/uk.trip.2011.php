@@ -22,7 +22,7 @@
 	Niall, Caoihme and Ronan. We also celebrated Sophia's 1st Birthday. Cute.
 	</p>
 	<p>
-	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2014 ?>/07Jul/UK.trip/index.html">Piccies</a> 
+	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2011 ?>/07Jul/UK.trip/index.html">Piccies</a> 
 	</p>
 	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/9iGBmpEGDXQ" frameborder="0" allowfullscreen></iframe></p>
