@@ -19,7 +19,7 @@
 	With a quick visit back to the UK for Sophia's Birthday we had 19 days. The Smurfs gave us a big welcome and we headed to Hampton Court to see John, Anna, Bella and
 	Myles. We drove dpwn to Fareham and hung out with XCYS and Barometer. Dog headed down to a <a href="http://www.cornwall-online.co.uk/westcornwall/mousehole.htm">Mousehill</a> for Jez's wedding, wahoooo! Headed back to Billericay
 	to see Pops & duck and celebrate Dave's 40th Birthday, play golf at <a href="http://www.cornwall-online.co.uk/westcornwall/mousehole.htm">Stockbrook</a>. Stayed in Wickford with Jim Jam, Sinead,
-	Niall, Caoihme and Ronan. We also celebrated Sophia's 1st Birthday. Cute.
+	Niall, Caoihme and Ronan. We also celebrated Sophia's 1st Birthday and XCYS and Barometer drove up to Billericay.
 	</p>
 	<p>
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2011 ?>/07Jul/UK.trip/index.html">Piccies</a> 
