@@ -25,6 +25,9 @@
 	<strong>Pictures:</strong> <a href="<?php echo $EXETEL_HOME_2011 ?>/07Jul/UK.trip/index.html">Piccies</a> 
 	</p>
 	<p>
+	<strong>Pictures:</strong>
+	</p>
+	<p>
 	<iframe width="560" height="315" src="//www.youtube.com/embed/9iGBmpEGDXQ" frameborder="0" allowfullscreen></iframe></p>
 	<p>
 	<p>
