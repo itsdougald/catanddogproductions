@@ -30,6 +30,7 @@
 	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/12Dec/Christmas/index.html">Christmas celebrations</a> [ 2013 Dec 24- Jan 1 ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/10Oct/Holiday/Perth/index.html">Holiday to Perth</a> [ 2013 Oct 10-16 ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/10Oct/Holiday/Bali/index.html">Holiday to Bali with Pops and Duck</a> [ 2013 Oct 2-10 ]</li>
+	<li><a href="/australia/gf.winners.2013.php">GF Div 1 Winners!</a> [ 2013 Sept ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/07Jul/index.html">Sophia's 3rd Birthday</a> [ 2013 July 12-13 ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/06Jun/index.html">June</a> [ 2013 June ]</li>
 	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/05May/Tim.Moneera.wedding/index.html">Neighbour's wedding</a> [ 2013 May ]</li>
