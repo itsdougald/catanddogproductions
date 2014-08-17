@@ -37,7 +37,7 @@
 	<h3>General</h3>
 	<ul>
 	<li><a href="/travel/holidays/uk.trip.2014.php">UK Trip</a> [ 2014 Jul - Aug ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/Vivid/index.html">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
+	<li><a href="/australia/vivid.2014.php">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/TT Birthday/index.html">Tom Tom's Birthday</a> [ 2014 Jun ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Nannys/index.html">Nanny galore</a> [ 2014 Apr ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Easter.egg.hunt/index.html">Easter Egg Hunt</a> [ 2014 Apr ]</li>
