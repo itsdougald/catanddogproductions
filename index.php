@@ -59,6 +59,8 @@
 	<li>Queens Park Lions 0 (0) v (0) 2 Dunbar Rovers [ 2014 Jul 27 ]</li>
 	<li>Maroubra United (0) v (4) 9 Queens Park Lions [ 2014 Jul  ]</li>
 	<li>Waverley Old Boys (0) v (2) 1 Queens Park Lions [ 2014 Jul ]</li>
+	<li>Queens Park Lions 0 (0) v (3) Brookvale [ 2014 Mar 23 ]</li>
+	<li>Brookvale 0 (0) v (2) 4 Queens Park Lions (Emma G 2, Tess, Emma C) [ 2014 Mar 16 ]</li>
 	</ul>
 		
 		<h3>Kids</h3>
