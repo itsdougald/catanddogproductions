@@ -36,7 +36,7 @@
 	<h2>News</h2>
 	<h3>General</h3>
 	<ul>
-	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/craig.wendy.wedding/index.html"">UK Trip</a> [ 2014 Oct 11 ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/craig.wendy.wedding/index.html">Watsons Bay: Craig and Wendys wedding</a> [ 2014 Oct 11 ]</li>
 	<li><a href="/travel/holidays/uk.trip.2014.php">UK Trip</a> [ 2014 Jul - Aug ]</li>
 	<li><a href="/australia/vivid.2014.php">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
     <li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/TT Birthday/index.html">Tom Tom's Birthday</a> [ 2014 Jun ]</li>
@@ -66,6 +66,9 @@
 		
 		<h3>Kids</h3>
 	<ul>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/09Sep/kids/index.html">Sep</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/08August/kids/index.html">August</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/07July/kids/index.html">July</a></li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/06June/kids/index.html">June</a></li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/05May/kids/index.html">May</a></li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/kids/index.html">Apr</a></li>
