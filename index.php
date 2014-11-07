@@ -66,6 +66,7 @@
 		
 		<h3>Kids</h3>
 	<ul>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/kids/index.html">Oct</a></li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/09Sep/kids/index.html">Sep</a></li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/08August/kids/index.html">August</a></li>
 	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/07July/kids/index.html">July</a></li>
