@@ -1,5 +1,5 @@
-<?php 
- 	include '../application.php';  
+<?php
+ 	include '../application.php';
 ?>
 
 <div id="side">
@@ -17,7 +17,7 @@
 			<a href="/kids/andre.php" title="Our gorgeous second edition!">Andre</a>
 		</li>
 	</ul>
-</li>    	
+</li>
 <li>
     <a href="" title=""><strong>Sport</strong></a>
 	<ul>
@@ -41,6 +41,9 @@
         <li><a href="/wedding/hendo.php" title="Cats Hen Do Details">Hen dos</a></li>
         <li><a href="/wedding/stagdo.php" title="Dogs Stag Do Details">Stag dos</a></li>
     </ul>
+</li>
+<li>
+  <a href="/guptoberfest/index.php" title="Drinking Bavarian beer"><strong>Guptoberfest</strong></a>
 </li>
 <li>
     <a href="/property/index.php" title="Property in Spain"><strong>Property</strong></a>
