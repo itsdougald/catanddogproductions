@@ -2,11 +2,11 @@
 /*
  * @author The Dog
  * @date 01/02/2007
- * 
+ *
  */
 ?>
 <!-- application -->
-<?php 
+<?php
 
  switch ($_SERVER["SERVER_NAME"]) {
 	case catanddogproductions-dev.com:
@@ -35,15 +35,16 @@
         	$GLOBALS['EXETEL_HOME_2012'] = "/album/2012";
    		$GLOBALS['EXETEL_HOME_2013'] = "/album/2013";
 		$GLOBALS['EXETEL_HOME_2014'] = "/album/2014";
+    $GLOBALS['EXETEL_HOME_2014'] = "/album/2015";
    		$GLOBALS['EXETEL_HOME_WEDDING'] = "/album/wedding";
    		$GLOBALS['EXETEL_HOME_WORLDTRIP'] = "/album/world.trip";
-		$GLOBALS['EXETEL_HOME_SOPHIA'] = "/album/bubba";  
+		$GLOBALS['EXETEL_HOME_SOPHIA'] = "/album/bubba";
                 break;
 	}
-    
-    /* $GLOBALS['EXETEL_HOME'] = "http://home.exetel.com.au/catanddogproductions/photos/album/"; 
-	$GLOBALS['EXETEL_HOME_WEDDING'] = "http://home.exetel.com.au/catanddogproductions/photos/album/Wedding.Trip.Home/06.Wedding.Fri.11.May.2007/"; 
+
+    /* $GLOBALS['EXETEL_HOME'] = "http://home.exetel.com.au/catanddogproductions/photos/album/";
+	$GLOBALS['EXETEL_HOME_WEDDING'] = "http://home.exetel.com.au/catanddogproductions/photos/album/Wedding.Trip.Home/06.Wedding.Fri.11.May.2007/";
 	**/
-	
+
 ?>
 <!-- //application -->
