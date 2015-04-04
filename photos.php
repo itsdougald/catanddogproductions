@@ -35,7 +35,7 @@
 	</ul>
 	<h2>Photos of Bubba</h2>
 	<ul>
-		<li><a href="/bubba.php">Bubba</a> </li>
+		<li><a href="/kids/index.php">Bubba</a> </li>
 	</ul>
 	<h2>Photos of Cat and Dog's Wedding</h2>
 	<ul>
