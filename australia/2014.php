@@ -1,9 +1,9 @@
 <?php
 /*
  * @author The Dog
- * @date 10 Jan 2012
+ * @date 10 Jan 2014
  *  *
- * I am the page describing what we get up to in Australia whilst we live the dream in 2012
+ * I am the page describing what we get up to in Australia whilst we live the dream in 2014
  * 
  * */
 ?>
@@ -20,35 +20,58 @@
 
 	<div id="mainContent">
 	
-		<h1>Australia: Living the dream in 2013</h1>
-		
-		<h2>General News</h2>
-		<p>
-		Here are a list of events found on our site which you can click into....<strong>&raquo;</strong>
-		</p>
+		<h1>Australia: Living the dream in 2014</h1>
+		<h3>General 2014</h3>
 	<ul>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/12Dec/Christmas/index.html">Christmas celebrations</a> [ 2013 Dec 24- Jan 1 ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/10Oct/Holiday/Perth/index.html">Holiday to Perth</a> [ 2013 Oct 10-16 ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/10Oct/Holiday/Bali/index.html">Holiday to Bali with Pops and Duck</a> [ 2013 Oct 2-10 ]</li>
-	<li><a href="/australia/gf.winners.2013.php">GF Div 1 Winners!</a> [ 2013 Sept ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/07Jul/index.html">Sophia's 3rd Birthday</a> [ 2013 July 12-13 ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/06Jun/index.html">June</a> [ 2013 June ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/05May/Tim.Moneera.wedding/index.html">Neighbour's wedding</a> [ 2013 May ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/04Apr/kirkin/index.html">Kirkin and Hayley in town!</a> [ 2013 Apr - May]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/04Apr/sybio/index.html">Day trip to Sybio zoo and Stanmore Park</a> [ 2013 Apr 3rd]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/03Mar/mkr/index.html">My Kitchen Rules</a> [ 2013 Mar 8th]</li>
-	<li><a href="/australia/aussies.php">Cat and Dog are now Aussies and join Sophia and Andre to be an Aussie family</a> [ 2013 Mar 7th ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/02Feb/baby.a.first.swim/index.html">Baby A's first swim</a> [ 2013 Feb ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/02Feb/Nielson.bay/index.html">A trip to Nielson Bay</a> [ 2013 Feb ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/02Feb/smurfs.abroad/index.html">Smurf's drop by!</a> [ 2013 Feb ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/01Jan/cat.kayake/index.html">Cat kayaks for R & L b'day</a> [ 2013 Jan ]</li>
-	<li><a href="<?php echo $EXETEL_HOME_2013 ?>/01Jan/lyds.ruth.bday/index.html">Clovelly BBQ: Lyds and Ruth Birthday!</a> [ 2013 Jan ]</li>
-    </ul>
-	   <h2>Sport</h2>
-	   
-	   <ul>
-	   <li><a href="<?php echo $EXETEL_HOME_2012 ?>/02Feb/QP.first.session/index.html">Porkies first training & BBQ</a> [2012 Feb 26]</li>            
-        </ul>
+  <li><a href="<?php echo $EXETEL_HOME_2014 ?>/12Dec/Christmas.and.new.year/index.html">Christmas and New Year</a> [ 2014 Dec 25 - 2015 1 Jan ]</li>
+  <li><a href="<?php echo $EXETEL_HOME_2014 ?>/12Dec/Day.care.christmas/index.html">Day care Christams party</a> [ 2014 Dec ]</li>
+  <li><a href="<?php echo $EXETEL_HOME_2014 ?>/11Nov/green.street.market/index.html">Green Street market</a> [ 2014 Nov ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/guptoberfest/index.html">Guptoberfest</a> [ 2014 Oct 26 ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/clovelly.party/index.html">Clovelly Street festival</a> [ 2014 Oct ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/coogee.pavillion/index.html">Coogee Pavillion</a> [ 2014 Oct ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/craig.wendy.wedding/index.html">Watsons Bay: Craig and Wendys wedding</a> [ 2014 Oct 11 ]</li>
+	<li><a href="/travel/holidays/uk.trip.2014.php">UK Trip</a> [ 2014 Jul - Aug ]</li>
+	<li><a href="/australia/vivid.2014.php">Vivid: Light show in Sydney</a> [ 2014 Jun ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/06Jun/TT Birthday/index.html">Tom Tom's Birthday</a> [ 2014 Jun ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Nannys/index.html">Nanny galore</a> [ 2014 Apr ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Easter.egg.hunt/index.html">Easter Egg Hunt</a> [ 2014 Apr ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/Beer brewing/index.html">How to brew beer</a> [ 2014 Apr ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/03Mar/2014_03_Guppy Family/index.html">Coogee: Family photo shoot</a> [ 2014 Mar ]</li>
+    <li><a href="<?php echo $EXETEL_HOME_2014 ?>/03Mar/Newport.Holiday/index.html">Holiday in Newport</a> [ 2014 Mar ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/marks.40/index.html">Marks 40th</a> [ 2014 Mar ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/Sian.rob.engagement/index.html">Sian and Ron's engagement</a> [ 2014 Mar ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Duck.70/index.html">Ducks 70th</a> [ 2014 Jan ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Aus.day/index.html">Australia Day</a> [ 2014 Jan ]</li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/Orb concert/index.html">Orb Concert with Mark</a> [ 2014 Jan ]</li>
+	</ul>
+
+	<h3>Sport</h3>
+	<ul>
+	TOD:UPDATE FOOTBALL RESULTS HERE]
+	<li>Queens Park Lions 1 (1) v (0) 1 Coogee United [ 2014 Aug 10 ]</li>
+	<li>Queens Park Lions 1 (0) v (0) 0 Maroubra United [ 2014 Aug 3 ]</li>
+	<li>Queens Park Lions 0 (0) v (0) 2 Dunbar Rovers [ 2014 Jul 27 ]</li>
+	<li>Maroubra United (0) v (4) 9 Queens Park Lions [ 2014 Jul  ]</li>
+	<li>Waverley Old Boys (0) v (2) 1 Queens Park Lions [ 2014 Jul ]</li>
+	<li>Queens Park Lions 0 (0) v (3) Brookvale [ 2014 Mar 23 ]</li>
+	<li>Brookvale 0 (0) v (2) 4 Queens Park Lions (Emma G 2, Tess, Emma C) [ 2014 Mar 16 ]</li>
+	</ul>
+
+		<h3>Kids</h3>
+	<ul>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/11Nov/kids/index.html">Nov</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/10Oct/kids/index.html">Oct</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/09Sep/kids/index.html">Sep</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/08August/kids/index.html">August</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/07July/kids/index.html">July</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/06June/kids/index.html">June</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/05May/kids/index.html">May</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/04Apr/kids/index.html">Apr</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/03Mar/kids/index.html">Mar</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/02Feb/kids/index.html">Feb</a></li>
+	<li><a href="<?php echo $EXETEL_HOME_2014 ?>/01Jan/kids/index.html">Jan</a></li>
+
+		</ul>
 		<hr class="hide">
       </div>
       <!-- closes #mainContent-->
