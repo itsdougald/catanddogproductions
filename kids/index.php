@@ -22,8 +22,9 @@
 	<div id="mainContent">
 	<p>
 <strong>Kids!</strong><br>
+<h3>2012</h3>
 <ul>
-<li><a href="<?php echo $EXETEL_HOME_2011 ?>/01Jan/kids/index.html">Jan</a></li>
+<li><a href="<?php echo $EXETEL_HOME_2012 ?>/01Jan/kids/index.html">Jan</a></li>
 </ul>
 <h3>2011</h3>
 <ul>
