@@ -33,9 +33,9 @@
 		<li><a href="<?php echo $EXETEL_HOME_2006 ?>/index.html">2006</a> </li>
 		<li><a href="<?php echo $EXETEL_HOME_2005 ?>/index.html">2005</a> </li>
 	</ul>
-	<h2>Photos of Bubba</h2>
+	<h2>Photos of kids</h2>
 	<ul>
-		<li><a href="/kids/index.php">Bubba</a> </li>
+		<li><a href="/kids/index.php">Kids</a> </li>
 	</ul>
 	<h2>Photos of Cat and Dog's Wedding</h2>
 	<ul>
