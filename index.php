@@ -33,12 +33,16 @@
   }, true);
 </script>
 <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
-	<h2>News</h2>
-  <h3>General 2015</h3>
+	<h2>2015</h2>
+  <h3>General</h3>
   <ul>
     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/01Jan/SummerHols/index.html">Summer Holiday in Berry</a> [ 2015 Jan ]</li>
-
-	<h2>RSS Feed</h2>
+  </ul>
+  <h3>Sport</h3>
+  <ul>
+    <li>Queens Park AAW2 0 (0) v (1) 2 Coogee United AAW2 [ 2015 Mar ]</li>
+  </ul>
+  <h2>RSS Feed</h2>
 	<p>Catch all the up to date headlines and news via the Cat and Dog Production <a href="catanddogfeed.xml"><img src="/images/rss.gif" alt="">Feed</a></p>.
 
         <hr class="hide">
