@@ -20,7 +20,6 @@
 	
 	
 	<div id="mainContent">
-	<h1>Cat And Dog Productions</h1>
 	<p>
 <strong>Kids!</strong><br>
 <a href="/kids/sophia.php">Sophia</a><br/>
