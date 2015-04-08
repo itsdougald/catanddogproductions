@@ -18,9 +18,7 @@
 	include $ROOT.'/includes/tab.php'; 
  	include $ROOT.'/includes/side.php'; ?>
 	
-	
 	<div id="mainContent">
-	<h1>Cat And Dog Productions</h1>
 	<h2>Andre Gregg</h2>
 	
 	<p>
