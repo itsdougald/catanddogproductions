@@ -10,7 +10,7 @@
  */
 ?>
 <?php 
- 	include '../../../application.php'; 
+ 	include '../../application.php'; 
 	include $ROOT.'/includes/header.php'; 
 ?>	
 <body id="catanddog" class="homepage">
