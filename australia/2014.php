@@ -47,12 +47,14 @@
 
 	<h3>Sport</h3>
 	<ul>
-	TOD:UPDATE FOOTBALL RESULTS HERE]
+	
 	<li>Queens Park Lions 1 (1) v (0) 1 Coogee United [ 2014 Aug 10 ]</li>
 	<li>Queens Park Lions 1 (0) v (0) 0 Maroubra United [ 2014 Aug 3 ]</li>
 	<li>Queens Park Lions 0 (0) v (0) 2 Dunbar Rovers [ 2014 Jul 27 ]</li>
 	<li>Maroubra United (0) v (4) 9 Queens Park Lions [ 2014 Jul  ]</li>
-	<li>Waverley Old Boys (0) v (2) 1 Queens Park Lions [ 2014 Jul ]</li>
+	<li>Maroubra United 2 (1) v (0) 1 Queens Park Lions [ 2014 May 11]</li>
+	<li>Queens Park Lions 4 (3) v (1) 4 UNSW [ 2014 Apr 13 ]</li>
+	<li>Waverley Old Boys 1 (0) v (3) 2 Queens Park Lions [ 2014 Apr 6 ]</li>
 	<li>Queens Park Lions 0 (0) v (3) Brookvale [ 2014 Mar 23 ]</li>
 	<li>Brookvale 0 (0) v (2) 4 Queens Park Lions (Emma G 2, Tess, Emma C) [ 2014 Mar 16 ]</li>
 	</ul>
