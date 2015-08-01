@@ -164,8 +164,58 @@ Laters,
 Dougal / Couch / Trigg. :)
 PS Here's Alama's free-kick I "just" caught on my phone.
 <iframe width="425" height="349" src="https://www.youtube.com/watch?v=XoYMOmGtaaI" frameborder="0" allowfullscreen></iframe>
-
+<h4><a name="match-13"></a> [ 2015 Jul 12]</h4>
 		
+		G'day,
+
+First up, I'd like to say a big Happy Birthday to Sophia our little ginga ninja - 5 today which also matched the temperature this morning. 5 dedicated years on the sideline, she is 100% committed, without much choice!
+
+Anyway, to the game.
+
+Wentworth Park Stadium. Yep stadium. The Porkies had on-site parking, changing rooms and a glorious pitch, half surrounded by stadium. We'd made it. Not knowing if it was because of our thunderous 7 nil win last week, the Porkies were feeling spoilt. Splendid.
+
+Once the hooves had defrosted our and the kids had a little more colour in their cheeks, the Porkies leapt out of the blocks sharply and started the game professionally. Undefeated Dunbar, donning the usual blue and pink were a little startled. Pressing their defence had a handful of chances. Their keeper was under pressure and struggled to clear many times.
+
+With only one slight blip by us with Dunbar having an indirect free-kick inside our area, had only taken one other shot on target but even this had no menace.
+
+Must admit, I'm not sure how we didn't take the lead by half-time but Dunbar sheepishly left the field when the whistle blew and were not looking like minor-league winners.
+
+With many positives to discuss at half-time, the Porkies were even more charged for the second half. Oh yes.
+
+Possession was plentiful and attacking moves ever so convincing. 
+
+20 minutes in we had the first greatest chance of the day. Lisa O was fed a fantastic ball through Dunbar's centre of defence. Taking it in her stride had a defender close behind and faced a charging keeper ahead! Lisa calmly side-stepped and pushed the ball past their keeper.... into the penalty area Lisa  trotted.....she was through....an empty goal.....but in charges the ex-championship Swedish defender, Lisa and BANG!!!! In flies the arm / elbow and sends Lisa O flying. Yep flying. If Lisa had wings, she would have landed on Anzac bridge. Seriously. With the ball still rolling Lisa was down but the rest of the Porkies, kids and support were up in arms!!!! Yet again jewellery-hungry Ref Mr.gobbledy-magpie-geek (I can say geek cause I'm a trained one, oh and magpie cause he pecks at all things shiny) was here to spoil our day. 
+
+Play-on, he squawks. 
+
+Play-on?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+I felt sick. I felt physically sick. Was it the pressure's of managing players, supporters and children week in week out for over 7 years (Note: children came into the scene 5 years ago). No it was yet again the man dressed in black with the authority (apparently) to not make a, what we thought, was a sensible decision!!!
+
+I give up.
+
+The game changed. The Porkies hooves were not connecting. We lost our sparkle and the Dunbar girls knew it too. They pressed for the next 15 minutes and turned our very own spit. 
+
+BTW, I've forgotten to mention the jewellery fiasco with Lydia - we had to play with 10 players until an earring was taken out, as kindly pointed out by a Dunbar player. Mr.gobbeldy-magpie-geek (I can still say geek cause I'm still a trained one) was furious. Raging.
+
+Anyway my Porkies far and wide Dunabr scored. Yep. They scored. 1 nil with 10 minutes to go. 
+
+We pressed for the last 5 or so minutes, with a free-kick on the edge of the area being our finest chance but it was too late.
+
+Admittedly Dunbar have this solid quality where defeat is just not an option for them and today I believe Championship league team Dunbar became State Cup champions - the first time an Eastern Suburbs has won since the State Cup began.
+
+With a long chat Mr.Gobbeldy-magpie-geek and myself at the end, Sophia had a big Happy Birthday song sang. Fleeing the NSW nest ex-porky "Cazablanket" supplied rainbow Birthday cake so we chomped on much needed sugar. Yum.
+
+With a win by UNSW over Coogee today means we have to beat UNSW next Sunday to get a top four finish to show this league what we're made of. 
+
+Game on my lean mean rindless bacon machines!!!
+
+See you all training.
+
+Laters,
+Dougal / Couch / Trigg. :)
+PS Thanks for my Birthday cake too Caz; I couldn't quite hold out in eating it on the 16th July 'cause, well, it tastes truly amazing. Best of luck with your new life in Perth. X
+
 	   <hr class="hide">
       </div>
       <!-- closes #mainContent-->
