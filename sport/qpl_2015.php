@@ -301,6 +301,67 @@ C'mon Porkies the only way is up!!!! Rest up and look forward to World Cup train
 
 Laters,
 Dougal / Couch / Trigg. :)
+<h4><a name="match-13"></a> [ 2015 Jun 21]</h4>
+Dear piglets,
+
+11am KO - why can't we play at this time every week? 
+
+The sun was warm enough to thaw the aching joints and the kids were winding down for a lunchtime nap. Bliss.
+
+The venue on the other hand was Coral Sea 1. Yuck. 
+
+The place holds many unhappy memories for the Porkies. Tears have been shed, punches have been thrown against supporters (true!) and season clinching games have been lost. 
+
+What did today hold for the Red & Black?...well read on for a Sunday Roast special!!!!!!!!
+
+Gazing across the paddock, there were only 9 Green and Gold lined up. Interesting. Coaches #1 put her hand for first half goals whilst I fired up the Pigs with a pre-match talk. Were we ready? Of course!!!
+
+The 9 Bras, as predicted, played like 18. Outstanding. With (growing) solid possession from us, the Bra were blocking all of our chances. Their keeper was strong. Although demanding instructions by Sophia to sit next to her, I cunningly negotiated a good chunk of time to keep up the intensity.
+
+But wait, 3 more Gold and Green appeared after 15 minutes in. It was still 0 -0. What had happened? Had we missed our chance to punish? Did we panic? Did we fret? 
+
+2 Gold and Green trotted on to make the 11 and the account opened for.....
+
+US!!!! (not short for USA btw, but best of luck on Monday morning!)
+
+The foundation was laid, our trotters were crispy and ready to punish!
+
+And punish we did!!  
+
+Coach's #1 took off the gloves and sat down and watched in her goal.
+
+We thumped in 1...
+.......2, 
+
+........3
+
+.........4, 
+
+and then 5 goals before half-time! Yep 5. Never? Yep 5. How? 3 goals were scored by Sweden's finest Barista, Alma. Coral Sea's net was on fire for the first time in the history of Porkies visits to the Ghetto. Lydia stepped up for the "attacking midfield" and scored. Also creating another chance by stepping round the keeper but fizzed it past the far post. Defence wanted a piece too!! Banana-lana pushed up with play starting from the back. From defence into attack. Very apt. Yep. With encouragement from the sidelines, Queensland's top-scorer, placed one into the corner. 5 nil. Yep 5 nil at half time and the Pigs had controlled the Bra's ill-filled Coral Sea sandy soil.
+
+Second half was even better. Keep fill in Professor Nicci touched it once, maybe twice, possibly thrice but we dominated. The Bra keeper certainly got her monies worth. Her gloves were wearing thin. 
+
+"Stop her from kicking the ball" shouted the opposition. Who were they referring to?...we'll come back to that.
+
+VJJ left back was released and given her freedom up front. Freeeeeeeeeedom she screamed!!!! With plenty of shots couldn't quite beat the "warmed up" keeper. 
+
+The Bra were referring to Carrot & Swede Alma. They could stop her. Firming up our lead even more fired in 2 extras, one of which was scintillating. We were 7 nil and looking like we were going to score more. Yep. Claire fizzed one over, VJJ fizzed one wide, Coach's #1 dropped the toe and drilled one too. A delightful display in "our" pen.
+
+The Gold and Green, had turned to Mustard and Bogey and the Red and Black were just Mighty including our fantastic new Hoodies , see attached (thanks Claire for organising!!!! Holly, what's your address? we'll post yours!!!)
+
+But wait, was that it 7 nil? More goals to come? Our youthful ref, blew his whistle for a .......penalty!!!! Yep. We were awarded a penalty. VJJ stepped up. With a jiggle to the left and right she sprinted to the ball. BANG!!! RATTLE!!! WOBBLE!!! FOLLOW UP!! .....oh no!!! It looked like it hit the underside of the bar and net rattled and flexed. It did? The supporters went mad!! I ran on the pitch and squared up to the Ref and punches were thrown and...and.and..and...
+
+JUST JOKING (as Sophia loves to say at the minute!).
+
+This did happen the first year I coached though when we were 6 nil down and a goal was disallowed. Dunbar's coach ran on the field and squared up to our fill-in ref. Yep. Dunbar coach lost his license to coach.
+
+AND SO THAT WAS THAT. THE WHISTLE BLEW AND THE PORKIES HAD WON 7 - 0.
+
+All of those bad memories had been put to bed and those nets may never be used again since there were that many scorching goals which pierced the net. ..hey and I would never be one to over dramatise!!!!!!
+
+Laters,
+Dougal / Couch / Trigg. :)
+
 	   <hr class="hide">
       </div>
       <!-- closes #mainContent-->
