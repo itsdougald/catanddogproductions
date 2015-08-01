@@ -215,7 +215,92 @@ See you all training.
 Laters,
 Dougal / Couch / Trigg. :)
 PS Thanks for my Birthday cake too Caz; I couldn't quite hold out in eating it on the 16th July 'cause, well, it tastes truly amazing. Best of luck with your new life in Perth. X
+<h4><a name="match-13"></a> [ 2015 Jun 28]</h4>
+To all the Porkies friends who love the world game and love the red and black!
 
+The Women's world cup has captured the nation and captivated the world and so have the Porkies!!
+
+What a day of football.
+
+The bad news:
+Matildas out
+Canada out
+
+The good news:
+England in and the Porkies are still in the running for a top four finish!
+
+t'was another warm Winter's day. Love this country. Sadly the ref packed his bags and left the ground.....just before our game was due to start. Oh no!!! We'd not had a ref allocated for a game in many many years!!....with a drop of sweat rolling down the Guppy brow, had a bad feeling I was going to have to ref. With two kids, many supporters, subs and a team to coach I really didn't want to. Really didn't.
+
+(insert third person dialogue)
+Can we share the referring, Dougal asks Pheonix nights lookalike Dunbar coach. 
+
+"Sorry mate I can't run so you'll have to ref both halves".....there's an awkward silence. There was. Inspirational I thought. A women's coach, who coaches a team of apt girls and he can't run. Inspirational. Anyway Dougal replies (looking away) politely with, "sure, I'll do it". What a lazy half-wit.
+
+Anyhoo, laying the laws on the outfield, looking at many ex-first division players, was not happy not being able to coach. Not. He t'wasn't. t'wasn't he was not.
+
+Off the Porkies went. Passing fluid and chances came quick. Admittedly Dunbar were calm and patient except for their keeper. What a mouth. Dougal put in a few sprints towards the Dunbar keeper to explain the need for calm and to not challenge his decisions. Dougal was liking the authority.
+
+Sadly, out of the blue (btw is a fantastic fish and chip shop on Clovelly road serving award winning chicken / fish / beef burgers with homemade chilli mayo!) Dunbar flashed down the right and shot for goal. Brooke put in a fine save, palming it onto the ex-QP div 2 (2007) Anabelle and she "hipped" it in!! 1 nil down against play. How very dare they.
+
+Shortly after our fourth or fifth corner, Tess took a golden chance from the edge of the area and scored!!!!!!!! 1 -1. Dougal nearly got in the way, almost tempted to strike but leapt to safety. We were a well deserved 1-1. Top of the league Dunbar were doub
+ting themselves. The mighty Pigs were in control and were upsetting the white, blue....and pink? Yeh I know.
+
+Dougal blew for half time, bang on 45 minutes. Yep. Bang on. How efficient.
+
+With 45 minutes of "couch" advice locked in whilst refereeing, walked through many positives and sharpened the edges.
+
+Pigs came out exceptionally strong. 
+
+Chances came a plenty. A notable move down the right with an exceptional cross into Alma. A chance missed but we were making them and Dunbar weren't.
+
+....and then there it was. 
+
+A delightful ball, just in behind Lisa, the Swedish Dunbar defender ex-div 1, into the path of Super-barista Alma. 
+
+Did the R & B take the lead? 
+
+HELL YEH!!!! 2-1 up. Dougal the ref professionally punched the air, silently cheered and of course was professionally pleased Dunbar were down.....but were they out?
+
+With 5 minutes to go, R&B and Dunbar clashed. The tempo was high and the pace was quick. Dunbar pressed and R&B were under the pump.
+
+Dunbar were awarded a corner. Cleared out to the side, crossed it back in first time. Ball again cleared but this time out to the edge of the area and bang! Goal. Really? Yep. 2-2. Dunbar had equalised. Dougal nearly swallowed his whistle.
+
+With 2 minutes to play of 90 minutes, the R&B legs looked wobbly. The voices were croaky. The supporters were stunned. Sophia called something to Dougal. Not sure what it was. Maybe it was to call the game and hit the playground. Maybe it was to make a sub. Maybe it was to hit the pub?...whatever it was R&B lost the ball in the middle of the Heffron 55 and Dunbar pressed forward. \
+
+Goal. 
+
+Really? Yep. 90 minutes on the clock and Dunbar scored an undeserved winner. The Dougal brow was sweating heavily. Sophia had given up shouting across the pitch. Ouch. The game was gone.
+
+A little drama continued. Sadly R&B didn't score but the "I'm-Not-A-Running-man" Dunbar coach got a little nervous about the time left. "How much time left ref"....this was not the first time I was asked. Dougal stubbornly replied "don't ask me this question (didn't add mate to the end cause he's not my mate)". "How much time?"....he asks again....Dougal sprinting over to the side, asked the coach to be quiet. Love it. Oh the authority.
+
+Dougal ran the game for an extra 5 minutes, hehe, but sadly the whistle blew and the R&B had lost. Poo.
+
+[end of third person dialogue]
+
+It was a proud day for the Porkies, taking unbeaten Dunbar to the wire. Set pieces still posing a problem for us, know there's a few small areas to work on but our quality is shining bright in this league!!!
+
+With a little commotion after the game with me and the coach (standard post match procedure) and net take down (really do not like taking down the nets!) forgot to announce Porky of the week from two weeks ago against Coogee (game last week was rained off). 
+
+Points were evenly spread but joint winners were ....."Brooke and Alma!!!". Alma, if you could bring the beloved Porky along to training, would be great for Brooke to look after for the week.
+
+That aside, here are some result stats:
+
+Round 1: 
+1 win
+4 losses
+
+Round 2 summary:
+2 wins
+2 losses
+1 draw
+
+Round 3:
+1 draw 
+ 
+C'mon Porkies the only way is up!!!! Rest up and look forward to World Cup training on Tuesday night.
+
+Laters,
+Dougal / Couch / Trigg. :)
 	   <hr class="hide">
       </div>
       <!-- closes #mainContent-->
