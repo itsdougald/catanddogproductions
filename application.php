@@ -8,7 +8,7 @@
 <!-- application -->
 <?php
 
- require_once "dropbox-sdk/Dropbox/autoload.php";
+ # require_once "dropbox-sdk/Dropbox/autoload.php"; 
  
  switch ($_SERVER["SERVER_NAME"]) {
 	case catanddogproductions-dev.com:
