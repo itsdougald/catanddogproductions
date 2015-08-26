@@ -36,7 +36,15 @@
 	<h2>2015</h2>
   <h3>General</h3>
   <ul>
-    <li><a href="<?php echo $EXETEL_HOME_2015 ?>/01Jan/SummerHols/index.html">Summer Holiday in Berry</a> [ 2015 Jan ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/07Jul/dog.bday/index.html">Dog Birthday</a> [ 2015 July ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/07Jul/sophia.bday/index.html">Sophia Birthday</a> [ 2015 July ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Sophia.award/index.html">Sophia award</a> [ 2015 June ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Rich.40/index.html">Sophia award</a> [ 2015 June ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/american.bbq/index.html">American BBQ</a> [ 2015 June ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/05May/hunter.valley/index.html">Hunter Valley with the family</a> [ 2015 May ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/04Apr/Easter/index.html">Easter fun</a> [ 2015 Apr ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/01Jan/kirkin/index.html">Kirkin's 40th!</a> [ 2015 Jan ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/01Jan/SummerHols/index.html">Summer Holiday in Berry</a> [ 2015 Jan ]</li>
   </ul>
   <h3>Sport</h3>
   <ul>
