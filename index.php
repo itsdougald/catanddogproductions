@@ -36,10 +36,14 @@
 	<h2>2015</h2>
   <h3>General</h3>
   <ul>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/dog.time.off/index.html">Dog's time off</a> [ 2015 Oct ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/sophia.nippers/index.html">Sophia at Clovelly Nippers</a> [ 2015 Oct 11th ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/abc.leaving/index.html">Dog has left the ABC</a> [ 2015 Oct 9th ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/09Sep/coogee.food.festival/index.html">Coogee Food Festival</a> [ 2015 Sep ]</li>
      <li><a href="<?php echo $EXETEL_HOME_2015 ?>/07Jul/dog.bday/index.html">Dog Birthday</a> [ 2015 July ]</li>
      <li><a href="<?php echo $EXETEL_HOME_2015 ?>/07Jul/sophia.bday/index.html">Sophia Birthday</a> [ 2015 July ]</li>
      <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Sophia.award/index.html">Sophia award</a> [ 2015 June ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Rich.40/index.html">Sophia award</a> [ 2015 June ]</li>
+     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Rich.30/index.html">Rich 30th</a> [ 2015 June ]</li>
      <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/american.bbq/index.html">American BBQ</a> [ 2015 June ]</li>
      <li><a href="<?php echo $EXETEL_HOME_2015 ?>/05May/hunter.valley/index.html">Hunter Valley with the family</a> [ 2015 May ]</li>
      <li><a href="<?php echo $EXETEL_HOME_2015 ?>/04Apr/Easter/index.html">Easter fun</a> [ 2015 Apr ]</li>
