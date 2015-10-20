@@ -53,7 +53,7 @@
         <strong>Anyway keep yourself up to date with the season ahead....</strong><br>
 		<h2><a href="qpl_2015.php">2015</a></h2>
 		<a href="qpl_2013.php" title="AAW1 Team Porky 2013">
-		<img src="https://www.dropbox.com/s/3hn15yscgob8xix/20150823_112233%281%29.jpg?dl=0" width="500" height="331" alt="AAW2 Team Porky 2015">
+		<img src="https://www.flickr.com/photos/catanddog/21694036144/in/dateposted-public/" width="500" height="331" alt="AAW2 Team Porky 2015">
 		</a>
 		<h2><a href="qpl_2014.php">2014</a></h2>
 		
