@@ -19,7 +19,98 @@
 
 
         <h2>Queens Park Lions' match Reports 2015</h2>
-        
+        <h4><a name="match-"></a> [ 2015 Sep ]</h4>
+        G'day (English Australian), Hi (England, general), Alright mate (English, Essex), Ey up (England, Yorkshire), Alrrrrright (English, midlands), Allllllllllllright (English, Portsmouth), Fuck off (Scottish), Halla (Swedish), Hey (American), Hola (Mexican), How are ya (Canadian) Porkies!!!
+
+Well it's almost been a week since our fairytale Grand Final game against Coogee United.
+
+It's taken me that long to recover mentally, from a hangover and from writing a calm report.
+
+I HATE COOGEE UNITED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Anyway back to the big day.
+
+4.30pm KO at a buzzing stadium had the following squad:
+
+Keeper: Hannah (Brave superstar in goal for 90 minutes)
+
+Defence: 
+Vicky (Lady V, coaches #1)
+Alana (banana)
+Vhari (VJJ)
+Grace (Saving)
+
+Midfield:
+Tess (captain)
+Lisa B (metal arm)
+Brooke (Shields)
+Nicci (First game back in 6 weeks since foot stress fracture)
+
+Forward:
+Alma (Dates the tallest Sherpa in the world)
+Lydia (Sore all over!)
+
+Subs:
+Clare (injured)
+Jen (injured)
+
+Out:
+Lisa O (left the country)
+Alissa (left the country)
+Christina (left the country)
+Chloe (injured)
+SJ(injured)
+
+With patched up pigs and pigs who had fled we were more than happy to be playing in the Grand Final. We were. Were we? We were. Our journey has been something to write about (believe I'v done that through match reports!) and the spirit has been stronger than anything on Clovelly Hotel's top shelf.
+
+With the sun setting, the mouths were dry, the heart was pounding and the bandages and plasters were tight. Here we go. Porkies 5th Grand Final in 8 years, the timid ref tentatively blew his whistle and the game begun.
+
+1 minute in, deep in our half we'd cleared out straight to Coogee. With the Porkies pushing up were caught with an immediate ball over the top through the middle to their striker. Bringing the ball down pushed it into her own path and drilled her shot far post into the goal past Sherwood. Wow. Stunned. All of us. This was all captured on video on my phone. I immediately stopped filming.
+
+We fought back hard but Coogee made it difficult for us to play. 
+
+Coogee begun to play the Coogee way. Hack. 
+
+Getting a free-kick 30 yards out on the right had our first real chance. Alma stepping up shot on target and the keeper just got her gloves to it. Just. Wow Coogee's captain had saved them and that wasn't to be only save of the day from either team.
+
+With the Porkies constantly being knocked down, Alma was the first to go down and not come back up. An off-the-ball stud to the back of the leg, hobbled off to the side. We were furious with the tackle and the refs lack of authority on the game. It was only 15 minutes in and Alma hobbled off for 15 minutes. Not happy.
+
+Coogee had rattled our hooves and we were getting frustrated. Our step in keeper Sherwood saved some very strong shots, tipping onto the post and diving at close range. Incredible. but we kept Coogee out. Outstanding.
+
+The timid ref blew for half time and we'd kept Coogee to 1 nil. We were still in it. The last two league games against Coogee, we'd come back to draw so the belief was there. Whilst we were licking sugary snakes (supplied by the Sherpa!) also licked new and old wounds.... but the spirit was still high!
+
+We talked through the game. Stay calm. We needed to stay calm. Coogee had got under our hooves, squashed our passing game and forced us into frantic play.
+
+Starting strong we were moving well on and off the ball until crunch!!!!!!!!!!!!! Lydia went down with a 50/50 challenge from #2. Ouch. Staying down, the Porkies were fearing the worst. Pulling Lydia up, she bravely hobbled off.....hobbled off with a broken bone!!!! OMG, oh my god, oh my goodness, golly gosh!!!!! Coogee had done it again. They'd broken bones and damaged a Porky!!!
+
+With both Clare and Jen playing (injured) we still weren't giving up.
+
+Against the flow of play Coogee scored a second. Yes it was a long ball over the top but this time it was off-side. My view was blocked. It was in front of the linesman and our vociferous supporters shouted off-side!!!! 2 nil. Damn. 
+
+We shifted into Grand Final gear.
+
+With 25 minutes to play we controlled the game for 20 minutes. 
+
+Fouls continued.
+
+Brooke was knocked heavily down and concust but could still count my fingers. She battled on. Outstanding. Tess got booked for decent - "which game are you refereeing?"..... The timid ref couldn't book dirty Coogee but could book UNSW's finest lecturer / researcher with a  perfectly valid question. Not outstanding.
+
+We had three clear chances all from free-kicks and corners. Coogee's keeper saved time after time. She saved Coogee. Not happy.
+
+The game was thrilling either way and our support was fantastic. Song's resonated around the pitch and felt so proud to be the Red and Black.
+
+The whistle blew and we'd lost.
+
+Of course Coogee celebrated and it was frustrating. With a few thank you's around the coaches bench (and wobbly lips) we all took a moment to say thank you to each other. 
+
+Thank you Porkies, thank you for growing efforts, your growing love and your growing desire for the team this season - it makes us the best in the Eastern Suburbs and for me the reason to carry on.
+
+Stay fit and stay in touch and see you at the presentation night on 18th Sept we can get drunk like Coogee play on the pitch ...."FILTHY!!!!!"
+
+Love and live forever,
+Dougal / Couch / Trigg. :)
+PS Thanks for the cap and watch - not stopped wearing both since I've got them on Sunday!! (well maybe the cap....)
+PPS A few piccies attached.
 		<h4><a name="match-13"></a> [ 2015 Jul 26]</h4>
 		G'day,
 
