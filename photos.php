@@ -22,7 +22,8 @@
 	<div id="mainContent">
 	<h2>Photos By Year</h2>
 	<ul>
-		 <li><a href="<?php echo $EXETEL_HOME_2014 ?>/index.html">2014</a> </li>
+		  <li><a href="<?php echo $EXETEL_HOME_2015 ?>/index.html">2015</a> </li>
+		<li><a href="<?php echo $EXETEL_HOME_2014 ?>/index.html">2014</a> </li>
 		 <li><a href="<?php echo $EXETEL_HOME_2013 ?>/index.html">2013</a> </li>
 		<li><a href="<?php echo $EXETEL_HOME_2012 ?>/index.html">2012</a> </li>
 		<li><a href="<?php echo $EXETEL_HOME_2011 ?>/index.html">2011</a> </li>
