@@ -18,12 +18,13 @@
  	include $ROOT.'/includes/side.php'; ?>
 
 	<div id="mainContent">
-	<h2>Guptoberfest</h2>
+	<h2>Guptoberfest 2015</h2>
 
-	<p>Details here
-
-</p>
-
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xbl5kjIa_CI" frameborder="0" allowfullscreen></iframe></p>
+	<p><iframe width="560" height="315" src="https://www.youtube.com/embed/jnCUScYwSUo" frameborder="0" allowfullscreen></iframe></p>
+	
+	<h3>Guptoberfest 2014</h3>
+	
         <hr class="hide">
       </div>
       <!-- closes #mainContent-->
