@@ -21,7 +21,7 @@
     <div id="mainContent">
     
     <h2>Holiday Let/Long Term</h2>
-    PROPERTY IS LET till Nov 2013.
+    If you fancy a holiday at our place in Palomares visit our listed property on <a href="http://www.tripadvisor.co.uk/VacationRentalReview-g2355762-d7618118-Palomares_Holiday_apartment_rental-Province_of_Almeria_Andalucia.html">TripAdvisor</a>
     <p>
     We have a two bed, 2 bathroom apartment with underground parking in the south of Spain in Palomares, Almeria. With easyjet flying to Almeria and Mercia both only an hours drive away
     we'd be delighted for you stay. Construction finished in November 2006 and now recently furnished the property using www.homefromhomespain.com. Everything has been provided so all you need
