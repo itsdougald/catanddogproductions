@@ -100,9 +100,6 @@
     <li>Queens Park 2 (1) v (2) 3 Loko Cove AAW2 [ 2015 May 17 ]</li>
   </ul>
   <ul>
-    <li>Queens Park 2 (1) v (2) 3 Loko Cove AAW2 [ 2015 May 17 ]</li>
-  </ul>
-  <ul>
     <li>Coogee United 1 (0) v (0) 1 Queens Park AAW2 [ 2015 May 10 ]</li>
   </ul>
   <ul>
