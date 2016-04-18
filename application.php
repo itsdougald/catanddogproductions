@@ -38,6 +38,7 @@
    		$GLOBALS['EXETEL_HOME_2013'] = "/album/2013";
 		$GLOBALS['EXETEL_HOME_2014'] = "/album/2014";
                 $GLOBALS['EXETEL_HOME_2015'] = "/album/2015";
+                $GLOBALS['EXETEL_HOME_2016'] = "/album/2016";
    		$GLOBALS['EXETEL_HOME_WEDDING'] = "/album/wedding";
    		$GLOBALS['EXETEL_HOME_WORLDTRIP'] = "/album/world.trip";
 		$GLOBALS['EXETEL_HOME_SOPHIA'] = "/album/bubba";
