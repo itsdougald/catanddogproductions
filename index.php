@@ -36,27 +36,14 @@
 	<h2>2016</h2>
 	<h3>General</h3>
   <ul>
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/"></a> [ 2016 Jan ]</li>
-  </ul>
-	<h2>2015</h2>
-  <h3>General</h3>
-  <ul>
-     <li><a href="/">Simbi-Smith's land after 10 years since their last holiday down under!!</a> [ 2015 Oct 28 - Nov 11 ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/ffa/index.html">Dog starts a new job at the FFA</a> [ 2015 Oct 26 ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/guptoberfest/index.html">Guptoberfest is back!!!!</a></a> [ 2015 Oct ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/sophia.nippers/index.html">Sophia at Clovelly Nippers</a> [ 2015 Oct 11 ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/dog.time.off/index.html">Dog's time off</a> [ 2015 Oct ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/10Oct/abc.leaving/index.html">Dog has left the ABC</a> [ 2015 Oct 9th ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/09Sep/coogee.food.festival/index.html">Coogee Food Festival</a> [ 2015 Sep ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/07Jul/dog.bday/index.html">Dog Birthday</a> [ 2015 July ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/07Jul/sophia.bday/index.html">Sophia Birthday</a> [ 2015 July ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Sophia.award/index.html">Sophia award</a> [ 2015 June ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/Rich.30/index.html">Rich 30th</a> [ 2015 June ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/06Jun/american.bbq/index.html">American BBQ</a> [ 2015 June ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/05May/hunter.valley/index.html">Hunter Valley with the family</a> [ 2015 May ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/04Apr/Easter/index.html">Easter fun</a> [ 2015 Apr ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/01Jan/kirkin/index.html">Kirkin's 40th!</a> [ 2015 Jan ]</li>
-     <li><a href="<?php echo $EXETEL_HOME_2015 ?>/01Jan/SummerHols/index.html">Summer Holiday in Berry</a> [ 2015 Jan ]</li>
+	[Jan]
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/ffa">FFA</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/kids">Kids</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Padel.tennis">Padel Tennis</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Bronze.medallian.trial">Bronze Mediallian trail at Clovelly</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/bowling.day">Bowling Day</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/beach.day">Beach Day</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Aus.day">Australia Day</a></li>
   </ul>
   <h3>Sport</h3>
   <ul>
