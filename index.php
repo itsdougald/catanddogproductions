@@ -29,16 +29,10 @@
   }, true);
 </script>
 <link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
-	<h2>2016</h2>
+	<h2>2017</h2>
 	<h3>General</h3>
   <ul>
-	[Jan]
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/kids">Kids</a></li>
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Padel.tennis">Padel Tennis</a></li>
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Bronze.medallian.trial">Bronze Mediallian trail at Clovelly</a></li>
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/bowling.day">Bowling Day</a></li>
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/beach.day">Beach Day</a></li>
-     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Aus.day">Australia Day</a></li>
+	  <li></li>
   </ul>
   <h3>Sport</h3>
   <ul>
