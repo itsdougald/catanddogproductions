@@ -23,7 +23,13 @@
 		<h1>Australia: Living the dream in 2016</h1>
 		<h3>General 2016</h3>
 	<ul>
-  
+  	[Jan]
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/kids">Kids</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Padel.tennis">Padel Tennis</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Bronze.medallian.trial">Bronze Mediallian trail at Clovelly</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/bowling.day">Bowling Day</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/beach.day">Beach Day</a></li>
+     <li><a href="<?php echo $EXETEL_HOME_2016 ?>/01Jan/Aus.day">Australia Day</a></li>
 	</ul>
 
 	<h3>Sport</h3>
